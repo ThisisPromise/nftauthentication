@@ -1,0 +1,1 @@
+This model detects forgeries between images using Structural Similarity Index and Wave Analysis (Fourier Transform). The techniques used would be optimized to be able to detect forgeries in NFTs and artworks
